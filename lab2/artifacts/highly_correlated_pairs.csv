@@ -1,0 +1,14 @@
+feat1,feat2,|corr|
+n_samples,ratio_samples_per_feature,0.955281013107457
+col_min_mean,col_min_std,0.9997941499674818
+col_min_mean,col_mean_mean,0.9899896264670597
+col_min_mean,col_mean_std,0.9877068309279979
+col_min_std,col_mean_mean,0.9879617571316972
+col_min_std,col_mean_std,0.9898650595975256
+col_max_mean,col_mean_mean,0.9038633965439241
+col_max_std,col_std_std,0.91123831464448
+col_mean_mean,col_mean_std,0.9560781840835887
+col_mean_std,col_std_std,0.9014093480786007
+col_std_mean,col_std_std,0.9862457233686679
+col_skew_std,col_kurt_std,0.924534565716681
+tree_node_count,tree_leaf_count,1.0
